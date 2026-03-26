@@ -1,4 +1,4 @@
-# 🚀 Lords Institute of Engineering & Technology – GitHub Contributions
+# Lords Institute of Engineering & Technology – GitHub Contributions
 
 <p align="center">
   <b>Building a strong open-source and project culture at LIET</b><br/>
@@ -172,14 +172,6 @@ By contributing, you are:
 ## 🤝 Maintained By
 **Lords Institute of Engineering & Technology**  
 Empowering students through technology & collaboration
-
----
-
-## ⭐ Support & Contribution
-If you find this helpful:
-- Star ⭐ the repository  
-- Share with your peers  
-- Start contributing today 🚀  
 
 ---
 
